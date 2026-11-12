@@ -1,0 +1,8 @@
+{
+  "name": "Remix Proactive Co-Creator",
+  "description": "An intelligent agent that collaborates with users to refine prompts for content creation, using a belief graph and interactive questions, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
